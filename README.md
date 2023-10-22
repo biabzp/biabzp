@@ -7,4 +7,9 @@ Oi, aqui é a Beatriz!
 💻 Além de ser residente via [Residência Tecnológica - Onboard](https://residencia.portodigital.org/).
 
 📚 Tenho realizado cursos extracurriculares na área de tecnologia e de idiomas.
-  
+
+<div>
+    <a href="https://github.com/biabzp"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biabzp&layout=compact&langs_count=168theme=dracula"/>
+    </div>
+    
